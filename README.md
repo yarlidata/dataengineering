@@ -24,4 +24,4 @@ Description: Combines multiple SCD types to provide a more comprehensive solutio
 Utilized when there is a need to retain a combination of current, historical, and prior state data, offering a balance between complexity and data tracking capabilities.
 These types offer different strategies for handling changes in dimension data, each with its own advantages and trade-offs. The choice of SCD type depends on the specific requirements of the data warehouse, including the need for historical data retention, query performance, and storage considerations.
 
-Authored by [Yarli Data](https://yarli.com.au).
+Authored by [Yarli Data](https://yarli.com.au) for detailed article at [Blog](https://yarlidata.com/data-warehouse-with-scd-type-2-dimension/)
